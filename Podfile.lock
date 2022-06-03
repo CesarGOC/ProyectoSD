@@ -1,0 +1,16 @@
+PODS:
+  - FeedKit (9.0.0)
+
+DEPENDENCIES:
+  - FeedKit
+
+SPEC REPOS:
+  trunk:
+    - FeedKit
+
+SPEC CHECKSUMS:
+  FeedKit: 9ffa2434af293df73ac069129900498b3f89cb2e
+
+PODFILE CHECKSUM: ffbc7902a481beceba2ffc6b406be61d0653acf9
+
+COCOAPODS: 1.9.0
